@@ -1,6 +1,6 @@
-WP Local Playlists
+Local Playlists WP
 
-Plugin Name: WP Local Playlists
+Plugin Name: Local Playlists WP
 Plugin URI: 
 Description: Create local video playlists.
 Version: 0.0.1
@@ -12,4 +12,4 @@ PHP Version: 5.7 or higher
 Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-slug: wp-local-playlists
+slug: local-playlists-wp

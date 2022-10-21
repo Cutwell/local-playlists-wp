@@ -2,8 +2,8 @@ const { registerBlockType } = wp.blocks
 const { select } = wp.data
 
 registerBlockType('wp-local-playlists/video-player', {
-  title: "WP Local Playlists",
-  description: "WP Local Playlists",
+  title: "Local Playlists WP",
+  description: "Local Playlists WP",
   icon: "admin-media",
   category: "media",
   attributes: {
@@ -19,7 +19,7 @@ registerBlockType('wp-local-playlists/video-player', {
         id: select( 'core/block-editor' ).getSelectedBlock().clientId
       })
     }
-    return `WP Local Playlists`
+    return `Local Playlists WP`
   },
   save: () => null,
   example: {

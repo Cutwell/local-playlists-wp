@@ -40,7 +40,7 @@ class jPlayer_Widget extends \Elementor\Widget_Base {
   */
   public function get_title()
   {
-    return esc_html__('WP Local Playlists', 'wp-local-playlists');
+    return esc_html__('Local Playlists WP', 'wp-local-playlists');
   }
 
   /**

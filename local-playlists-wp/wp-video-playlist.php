@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: WP Local Playlists
+ * Plugin Name: Local Playlists WP
  * Description: Create local video playlists.
  * Version: 0.0.1
  * Tags: Video, Videos, Video Player, Video Playlist, Playlist
